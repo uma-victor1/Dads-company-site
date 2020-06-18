@@ -78,20 +78,7 @@ for (var i = 0; i < nav.length; i++){
       togglenavbar();
     }, true);
 
-  //navlinks.click( function (e) {
-  //    e.stopPropagation();
-  //});
-  
- // navlinks.addEventListener("click", function (e) {
- //   e.stopPropagation();
- // })
-//
- // function rmvopencls() {
- //   
- //   navlinks.classList.remove("open")
- // }
- // document.querySelector("body").addEventListener("click", rmvopencls)
-
+ 
 
 //slideshow
 var slideIndex = 0;
